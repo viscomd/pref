@@ -1,2 +1,2 @@
 # pref
-personal preferences for vim, terminal, shortcuts etc in Mac
+personal config files for vim/terminal/editors...etc

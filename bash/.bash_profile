@@ -4,7 +4,7 @@ export NVM_DIR="$HOME/.nvm"
 
 # Command Prompt
 # --------------
-export PS1="$ "
+export PS1="\W$ "
 
 # -------------
 

@@ -34,3 +34,7 @@ set expandtab
 
 
 "============
+"
+"ALLOW BACKSPACE
+"------------
+set backspace=2

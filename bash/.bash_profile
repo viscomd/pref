@@ -12,6 +12,6 @@ export PS1="\W$ "
 # Alias
 # -------------
 alias ll="pwd && ls -a"
-alias brewup='brew update; brew upgrade; brew prune; brew cleanup; brew doctor'
+alias brewup='brew update; brew upgrade; brew cleanup --prune-prefix; brew doctor'
 
 # -------------

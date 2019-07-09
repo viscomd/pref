@@ -12,6 +12,8 @@ brew install vim
 brew install wget
 brew install the_silver-searcher
 brew install tree
+brew install bash-completion
+brew install tig
 
 #Cask Brew Files
 #---------------

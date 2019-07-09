@@ -7,10 +7,13 @@
 #---------
 brew install bash
 brew install vim
+
+
 #Non Essential
 #-------------
 brew install bash-completion
 brew install peco
+brew install nvm
 brew install the_silver-searcher
 brew install thefuck
 brew install tig

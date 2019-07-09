@@ -14,6 +14,9 @@ brew install the_silver-searcher
 brew install tree
 brew install bash-completion
 brew install tig
+brew install thefuck
+brew install peco
+
 
 #Cask Brew Files
 #---------------
